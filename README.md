@@ -5,6 +5,8 @@ void motion(int direction);
 
 This robot movement library will make a robot move forward, backward, left and right.
 In the function that sets the direction of motion (called motion()), an integer is passed in representing the direction the robot will be programmed to move.
+ 
+ 
     1 is forward
     
     2 is backward
